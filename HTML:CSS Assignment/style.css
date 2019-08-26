@@ -1,40 +1,98 @@
 body {
-    padding: 0;
-    margin:0;
-    font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 18px;
-    line-height: 150%;
-    color: rgb(189, 198, 197);
-    background: rgb(242, 243, 240);
-  }
-
+  padding: 0;
+  margin:0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: rgb(0, 7, 6);
+  background: rgb(242, 243, 240);
+}
   
-  h1 {
-    padding: 30px 0;
-    margin: 0;
-    margin-bottom: 20px;
-    margin-left: 65px;
-    font-size: 28px;
-    color: rgb(30, 205, 218);
-    text-align: left;
-  }
-  h5{
-    padding: 30px 0;
-    margin: 0;
-    font-size: 18px;
-    color: rgb(30, 205, 218);
-    text-align: center;
-  }
+.title_change {margin: 20;
+  color: white;
+  font-weight: bold;
+  background-color:rgb(49, 181, 191) 
+}
+
+.nav_edit_1{
+  color: rgb(122, 127, 128);
+}
+
+h1 {
+  padding: 30px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  margin-left: 65px;
+  font-size: 28px;
+  color: rgb(49, 181, 191);
+  text-align: left;
+  font-weight: bold;
+}
+.font_change {
+  font-size: 30px;
+  font-weight: bold;
+}
+.font_change_2{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h5{
+  padding: 30px 0;
+  margin: 0;
+  font-size: 18px;
+  color: rgb(30, 205, 218);
+  text-align: center;
+}
+
+.navbar-text {
+  padding: 30px 0;
+  color: rgb(187, 47, 47);
+}
+
+.nav {
+  color:rgb(25, 190, 202)
+}
+
+p {
+  font-size: 12px;
+}
 
 
+.astetic_change{
+  background-color: rgb(249, 251, 252);
+  padding: 20px;
+  margin-bottom: 40px;
+}
+.astetic_change_2{
+  background-color: rgb(249, 251, 252);
+  padding: 20px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+ 
+.margin_edit {
+  margin-left: 5px;
+}
 
-  h2 {
-    font-size: 24px;
-  }
+.info-card {
+  background-color: white;
+  margin-right: 20px;
+}
 
+.center_edit{
+text-align: center;
+justify-content: center;
+}
 
-.navbar-text {padding: 30px 0;
-            color: rgb(187, 47, 47);}
-
-
-.nav {color:rgb(25, 190, 202)}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
